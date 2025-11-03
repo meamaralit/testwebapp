@@ -3,7 +3,7 @@
     {
       "route": "/*",
       "headers": {
-        "Cache-Control": "no-store, no-cache, must-revalidate"
+        "Cache-Control": "private"
       }
     }
   ]
