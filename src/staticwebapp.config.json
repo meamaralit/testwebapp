@@ -3,7 +3,7 @@
     {
       "route": "/*",
       "headers": {
-        "Cache-Control": "max-age=60"
+        "Cache-Control": ""
       }
     }
   ]
